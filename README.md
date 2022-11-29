@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MRIDULA SWAMI
+- 👋 Hi, I’m MRIDULA SWAMI.
 - 👀 I’m interested in Developing new ideas and softwares 
 - 🌱 I’m currently learning Spring with JAVA
 - 💞️ I’m looking to collaborate on frontend projects and also machine learning algorithms.
