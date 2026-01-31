@@ -1,9 +1,9 @@
-- 👋 Hi, I’m MRIDULA SWAMI.
-- 👀 I’m interested in Developing new ideas and softwares 
-- 🌱 I’m currently learning Spring with JAVA
-- 💞️ I’m looking to collaborate on frontend projects and also machine learning algorithms.
+- 👋 Hi, I am MRIDULA SWAMI.
+- 👀 I am a Software Developer in BFSI domain with 2 years of experience.
+- 🌱 I’m currently building production-grade data pipelines, analytics dashboards, and APIs that power real-world financial systems.
+- 💞️ I enjoy turning messy financial data into reliable pipelines, optimised databases, and meaningful insights.
 - 📫 How to reach me ...
-- Email- mriduswami23@gmail.com
+- Email- mridulaswamiofficial.com
 
 <!---
 mridulaswami/mridulaswami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
