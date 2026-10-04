@@ -1,6 +1,6 @@
 👩‍💻 Java Backend Developer | 3+ Years Experience
 
-• Java | Spring Boot | Microservices | REST APIs
+• Java | Spring Boot | Microservices | REST APIs | Kafka
 
 • SQL | PostgreSQL | SQL Server | Oracle | Hibernate/JPA
 
